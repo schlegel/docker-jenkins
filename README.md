@@ -5,7 +5,7 @@ Docker image to install Jenkisn CI Server.
 Already includes:
 
  - Jenkins
- - Java 7, Java 8
+ - Java 7, Java 8 (Oracle)
  - Git, subversion
  - Maven
  - NodeJs, NPM
